@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [abdulbasith.xyz/experiences](abdulbasith.xyz/experiences)
 
-- ⚡ Fun fact **I am not good at using Git Version Control**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
