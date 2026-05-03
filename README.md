@@ -5,19 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul3asith" alt="abdul3asith" /></a> </p>
 
-- 🔭 I’m currently working on **InnovateX - LMS**
 
-- 🌱 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [abdulbasith.xyz](abdulbasith.xyz)
-
-- 📝 I regularly write articles on [abdulbasith.xyz/iwrite](abdulbasith.xyz/iwrite)
-
-- 💬 Ask me about **JavaScript, React JS, Next.js, Node Js**
-
-- 📫 How to reach me **basithcodes@gmail.com**
-
-- 📄 Know about my experiences [abdulbasith.xyz/experiences](abdulbasith.xyz/experiences)
 
 
 <h3 align="left">Connect with me:</h3>
