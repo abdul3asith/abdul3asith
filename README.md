@@ -54,7 +54,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 Model Systems
+####  Model Systems
 
 `Transformers` · `LLMs` · `PyTorch` · `Autograd`  
 `Attention` · `FlashAttention` · `MoE` · `RAG`  
@@ -63,7 +63,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 </td>
 <td width="50%" valign="top">
 
-#### ⚡ GPU Performance
+####  GPU Performance
 
 `CUDA C++` · `Triton` · `CuTe / CUTLASS`  
 `Kernel Fusion` · `Coalescing` · `Tiling` · `Occupancy`  
@@ -74,7 +74,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ LLM Inference
+####  LLM Inference
 
 `SGLang` · `vLLM` · `TGI` · `Paged KV Cache`  
 `Continuous Batching` · `Prefix / Radix Caching`  
@@ -83,7 +83,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 </td>
 <td width="50%" valign="top">
 
-#### 🛠️ Systems & Platform
+####  Systems & Platform
 
 `Python` · `C / C++` · `Go` · `Rust` · `Linux`  
 `Docker` · `Kubernetes` · `Postgres` · `Redis`  
