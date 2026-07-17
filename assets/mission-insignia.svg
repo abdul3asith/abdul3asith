@@ -1,0 +1,67 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering mission insignia</title>
+  <desc id="desc">Four original medals: Tensor Smith, Kernel Runner, Cache Navigator, and Latency Hunter.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260"><stop stop-color="#050510"/><stop offset=".5" stop-color="#10051F"/><stop offset="1" stop-color="#050510"/></linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A855F7"/><stop offset="1" stop-color="#5B21B6"/></linearGradient>
+    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E5FF9A"/><stop offset="1" stop-color="#8ECF21"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="17" stroke="#7C3AED" stroke-opacity=".45"/>
+
+  <!-- Tensor Smith -->
+  <g transform="translate(150 24)">
+    <path d="M0 21 18 0l18 21v34L0 34V21Z" fill="url(#purple)" opacity=".9"/>
+    <path d="m36 21 18-21 18 21v13L36 55V21Z" fill="url(#lime)" opacity=".9"/>
+    <path d="M36 34 72 55v34L36 110 0 89V55l36-21Z" fill="#0B0714" stroke="#A855F7" stroke-width="2" filter="url(#glow)"/>
+    <circle cx="36" cy="72" r="19" stroke="#B6FF4A" stroke-width="2"/>
+    <circle cx="36" cy="72" r="4" fill="#B6FF4A"/>
+    <path d="M36 53v38M17 72h38M23 59l26 26M49 59 23 85" stroke="#A855F7"/>
+    <text x="36" y="144" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">TENSOR SMITH</text>
+    <text x="36" y="166" text-anchor="middle" fill="#8E82A7" font-family="monospace" font-size="11" letter-spacing="2">MODEL FORGE</text>
+  </g>
+
+  <!-- Kernel Runner -->
+  <g transform="translate(415 24)">
+    <path d="M0 21 18 0l18 21v34L0 34V21Z" fill="url(#lime)" opacity=".9"/>
+    <path d="m36 21 18-21 18 21v13L36 55V21Z" fill="url(#purple)" opacity=".9"/>
+    <path d="M36 34 72 55v34L36 110 0 89V55l36-21Z" fill="#0B0714" stroke="#B6FF4A" stroke-width="2" filter="url(#glow)"/>
+    <path d="M45 50 22 76h14l-9 19 25-29H38l7-16Z" fill="url(#lime)"/>
+    <path d="M16 55h10M12 65h10M48 89h11" stroke="#A855F7" stroke-width="2"/>
+    <text x="36" y="144" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">KERNEL RUNNER</text>
+    <text x="36" y="166" text-anchor="middle" fill="#8E82A7" font-family="monospace" font-size="11" letter-spacing="2">CUDA / TRITON</text>
+  </g>
+
+  <!-- Cache Navigator -->
+  <g transform="translate(680 24)">
+    <path d="M0 21 18 0l18 21v34L0 34V21Z" fill="url(#purple)" opacity=".9"/>
+    <path d="m36 21 18-21 18 21v13L36 55V21Z" fill="url(#lime)" opacity=".9"/>
+    <path d="M36 34 72 55v34L36 110 0 89V55l36-21Z" fill="#0B0714" stroke="#A855F7" stroke-width="2" filter="url(#glow)"/>
+    <rect x="17" y="53" width="15" height="15" rx="2" stroke="#A855F7"/>
+    <rect x="40" y="53" width="15" height="15" rx="2" stroke="#B6FF4A"/>
+    <rect x="17" y="76" width="15" height="15" rx="2" stroke="#B6FF4A"/>
+    <rect x="40" y="76" width="15" height="15" rx="2" stroke="#A855F7"/>
+    <path d="M32 60h8M24 68v8M48 68v8M32 84h8" stroke="white" stroke-opacity=".65"/>
+    <text x="36" y="144" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">CACHE NAVIGATOR</text>
+    <text x="36" y="166" text-anchor="middle" fill="#8E82A7" font-family="monospace" font-size="11" letter-spacing="2">PAGED KV</text>
+  </g>
+
+  <!-- Latency Hunter -->
+  <g transform="translate(945 24)">
+    <path d="M0 21 18 0l18 21v34L0 34V21Z" fill="url(#lime)" opacity=".9"/>
+    <path d="m36 21 18-21 18 21v13L36 55V21Z" fill="url(#purple)" opacity=".9"/>
+    <path d="M36 34 72 55v34L36 110 0 89V55l36-21Z" fill="#0B0714" stroke="#B6FF4A" stroke-width="2" filter="url(#glow)"/>
+    <circle cx="36" cy="72" r="22" stroke="#B6FF4A"/>
+    <circle cx="36" cy="72" r="14" stroke="#A855F7"/>
+    <circle cx="36" cy="72" r="4" fill="#B6FF4A"/>
+    <path d="M36 43v13M36 88v13M7 72h13M52 72h13M36 72l14-12" stroke="white" stroke-width="2"/>
+    <text x="36" y="144" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">LATENCY HUNTER</text>
+    <text x="36" y="166" text-anchor="middle" fill="#8E82A7" font-family="monospace" font-size="11" letter-spacing="2">PROFILE / TUNE</text>
+  </g>
+
+  <path d="M84 222h1032" stroke="#7C3AED" stroke-opacity=".3"/>
+  <circle cx="600" cy="222" r="3" fill="#B6FF4A" filter="url(#glow)"><animate attributeName="cx" values="84;1116;84" dur="8s" repeatCount="indefinite"/></circle>
+  <text x="600" y="244" text-anchor="middle" fill="#665B7C" font-family="monospace" font-size="10" letter-spacing="4">EARNED THROUGH CURIOSITY · KEPT THROUGH BENCHMARKS</text>
+</svg>
+

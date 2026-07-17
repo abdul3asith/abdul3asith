@@ -1,0 +1,6 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="End of transmission signal">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#7C3AED" stop-opacity="0"/><stop offset=".45" stop-color="#7C3AED"/><stop offset=".5" stop-color="#B6FF4A"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path d="M0 40h440l10-20 12 40 18-54 18 68 16-34h46l12-12 14 24 12-12h602" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="600" cy="40" r="5" fill="#B6FF4A" filter="url(#glow)"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+</svg>
+

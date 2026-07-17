@@ -196,7 +196,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 
 <div align="center">
 
-### `INCOMING TRANSMISSIONS WELCOME`a
+### `INCOMING TRANSMISSIONS WELCOME`
 
 I’m interested in hard problems across **LLM inference, GPU kernels, distributed systems, and performance engineering**.
 

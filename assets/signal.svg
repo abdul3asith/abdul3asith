@@ -1,0 +1,58 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abdul Basith — AI systems and GPU performance engineer</title>
+  <desc id="desc">An animated alien mission-control identity panel.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050510"/>
+      <stop offset="0.5" stop-color="#110822"/>
+      <stop offset="1" stop-color="#050510"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="190" y1="0" x2="1010" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B6FF4A"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#7C3AED" stroke-opacity="0.09"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#panel)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="17" stroke="#7C3AED" stroke-opacity="0.55"/>
+  <rect x="1" y="1" width="1198" height="258" rx="17" fill="url(#grid)"/>
+
+  <g opacity="0.75">
+    <circle cx="40" cy="38" r="2" fill="#B6FF4A"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="53" r="2" fill="#A855F7"><animate attributeName="opacity" values="1;.15;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="91" cy="211" r="1.5" fill="#C4B5FD"><animate attributeName="opacity" values=".2;.9;.2" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1096" cy="202" r="1.5" fill="#B6FF4A"><animate attributeName="opacity" values=".1;1;.1" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(72 64)" filter="url(#glow)">
+    <path d="M42 0 78 21v42L42 84 6 63V21L42 0Z" stroke="#A855F7" stroke-width="2"/>
+    <path d="m42 14 24 14v28L42 70 18 56V28L42 14Z" stroke="#B6FF4A" stroke-opacity="0.85"/>
+    <path d="M42 14v56M18 28l48 28M66 28 18 56" stroke="#7C3AED" stroke-opacity="0.72"/>
+    <circle cx="42" cy="42" r="5" fill="#B6FF4A">
+      <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;.45;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="600" y="62" text-anchor="middle" fill="#B6FF4A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="5">IDENTITY SIGNAL // LOCKED</text>
+  <text x="600" y="127" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="48" letter-spacing="9">ABDUL BASITH</text>
+  <rect x="280" y="146" width="640" height="2" rx="1" fill="url(#beam)" filter="url(#glow)">
+    <animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="187" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" letter-spacing="3">AI / ML  ·  CUDA  ·  LLM INFERENCE  ·  GPU PERFORMANCE</text>
+  <text x="600" y="224" text-anchor="middle" fill="#766A91" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="4">BUILDING FAST INTELLIGENCE FOR THIS WORLD AND THE NEXT</text>
+
+  <path d="M24 24h48M24 24v28M1176 24h-48M1176 24v28M24 236h48M24 236v-28M1176 236h-48M1176 236v-28" stroke="#B6FF4A" stroke-width="2"/>
+  <rect x="0" y="0" width="1200" height="3" fill="#B6FF4A" opacity="0.18">
+    <animate attributeName="y" values="0;257;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
