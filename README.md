@@ -10,19 +10,19 @@
 
 <br />
 
-<img src="./assets/signal.svg" width="100%" alt="Abdul Basith — AI/ML, CUDA and GPU Performance Engineer" />
+<img src="./assets/signal.svg" width="100%" alt="Abdul Basith — GPU Performance Engineer" />
 
 <br />
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-0A0A16?style=for-the-badge&logo=linkedin&logoColor=B6FF4A" alt="LinkedIn" /></a>
-<a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X_%2F_TWITTER-0A0A16?style=for-the-badge&logo=x&logoColor=A855F7" alt="X" /></a>
+<a href="https://www.linkedin.com/in/abdul3asith/"><img src="https://img.shields.io/badge/LINKEDIN-0A0A16?style=for-the-badge&logo=linkedin&logoColor=B6FF4A" alt="LinkedIn" /></a>
+<a href="https://x.com/basithtwts"><img src="https://img.shields.io/badge/X_%2F_TWITTER-0A0A16?style=for-the-badge&logo=x&logoColor=A855F7" alt="X" /></a>
 <a href="https://huggingface.co/YOUR_HUGGINGFACE"><img src="https://img.shields.io/badge/HUGGING_FACE-0A0A16?style=for-the-badge&logo=huggingface&logoColor=B6FF4A" alt="Hugging Face" /></a>
 <a href="https://YOUR_PORTFOLIO.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0A0A16?style=for-the-badge&logo=safari&logoColor=A855F7" alt="Portfolio" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/TRANSMIT-0A0A16?style=for-the-badge&logo=gmail&logoColor=B6FF4A" alt="Email" /></a>
+<a href="mailto:basithcodes@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-0A0A16?style=for-the-badge&logo=gmail&logoColor=B6FF4A" alt="Email" /></a>
 
 <br /><br />
 
-`SYSTEMS ONLINE` &nbsp;•&nbsp; `BAY AREA, CA` &nbsp;•&nbsp; `OPEN TO AI / INFERENCE / GPU ROLES`
+`SYSTEMS ONLINE` &nbsp;•&nbsp; `SAN FRANCISCO, CA` 
 
 </div>
 
@@ -142,10 +142,10 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 
 | Mission | What lives inside | Signal |
 |:--|:--|:--:|
-| [**Nano SGLang**](https://github.com/YOUR_GITHUB_USERNAME/nano-sglang) | A from-scratch inference engine: scheduler, paged KV cache, request lifecycle, and measured concurrent decoding. | `INFERENCE` |
-| [**GPU Kernel Lab**](https://github.com/YOUR_GITHUB_USERNAME/gpu-kernel-lab) | CUDA GEMM, fused softmax, Triton kernels, FlashAttention experiments, and profiling notes. | `KERNELS` |
-| [**Mini-GPT 125M**](https://github.com/YOUR_GITHUB_USERNAME/mini-gpt) | A decoder-only transformer built in PyTorch with attention, positional encoding, training, and ablations. | `MODELS` |
-| [**Inference Gateway**](https://github.com/YOUR_GITHUB_USERNAME/inference-gateway) | Streaming, routing, identity, health checks, and fallback across local and hosted LLM backends. | `SYSTEMS` |
+| [**Nano SGLang**](https://github.com/abdul3asith/nano-sglang) | A from-scratch inference engine: scheduler, paged KV cache, request lifecycle, and measured concurrent decoding. | `INFERENCE` |
+| [**GPU Kernel Lab**](https://github.com/abdul3asith/cuda-kernel-lab) | CUDA GEMM, fused softmax, Triton kernels, FlashAttention experiments, and profiling notes. | `KERNELS` |
+| [**Mini-GPT 125M**](https://github.com/abdul3asith/mini-gpt) | A decoder-only transformer built in PyTorch with attention, positional encoding, training, and ablations. | `MODELS` |
+| [**Inference Gateway**](https://github.com/abdul3asith/inference-gateway) | Streaming, routing, identity, health checks, and fallback across local and hosted LLM backends. | `SYSTEMS` |
 
 > These are the four repos I would pin first for an AI infrastructure / GPU performance recruiter.
 
@@ -155,16 +155,16 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050510&color=C4B5FD&line=B6FF4A&point=A855F7&area=true&area_color=7C3AED&hide_border=true&custom_title=DEEP%20SPACE%20CONTRIBUTION%20SIGNAL" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdul3asith&bg_color=050510&color=C4B5FD&line=B6FF4A&point=A855F7&area=true&area_color=7C3AED&hide_border=true&custom_title=DEEP%20SPACE%20CONTRIBUTION%20SIGNAL" alt="GitHub contribution activity graph" />
 
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=-7" alt="Productive coding time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdul3asith&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdul3asith&theme=tokyonight&utcOffset=-7" alt="Productive coding time" />
 
 <br />
 
-<img width="68%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050510&ring=B6FF4A&fire=A855F7&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=B6FF4A&sideLabels=A855F7&dates=7D7395" alt="GitHub contribution streak" />
+<img width="68%" src="https://streak-stats.demolab.com?user=abdul3asith&hide_border=true&background=050510&ring=B6FF4A&fire=A855F7&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=B6FF4A&sideLabels=A855F7&dates=7D7395" alt="GitHub contribution streak" />
 
 </div>
 
@@ -183,9 +183,9 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/alien-contribution-serpent-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/alien-contribution-serpent.svg" />
-  <img alt="Alien contribution serpent animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/alien-contribution-serpent-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul3asith/abdul3asith/output/alien-contribution-serpent-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul3asith/abdul3asith/output/alien-contribution-serpent.svg" />
+  <img alt="Alien contribution serpent animation" src="https://raw.githubusercontent.com/abdul3asith/abdul3asith/output/alien-contribution-serpent-dark.svg" />
 </picture>
 
 <sub>The serpent is generated daily from the real contribution grid by the included GitHub Action.</sub>
@@ -200,7 +200,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
 
 I’m interested in hard problems across **LLM inference, GPU kernels, distributed systems, and performance engineering**.
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/OPEN_A_CHANNEL-B6FF4A?style=for-the-badge&logo=minutemailer&logoColor=050510" alt="Email Abdul" /></a>
+<a href="mailto:basithcodes@gmail.com"><img src="https://img.shields.io/badge/OPEN_A_CHANNEL-B6FF4A?style=for-the-badge&logo=minutemailer&logoColor=050510" alt="Email Abdul" /></a>
 
 <br /><br />
 
