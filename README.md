@@ -188,7 +188,7 @@ My north star is simple: **less memory, fewer milliseconds, more useful intellig
   <img alt="Alien contribution serpent animation" src="https://raw.githubusercontent.com/abdul3asith/abdul3asith/output/alien-contribution-serpent-dark.svg" />
 </picture>
 
-<sub>The serpent is generated daily from the real contribution grid by the included GitHub Action.</sub>
+
 
 </div>
 
