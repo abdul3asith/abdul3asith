@@ -4,7 +4,7 @@
   Full instructions live in CUSTOMIZE.md.
 -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="./assets/alien-world.webp" width="100%" alt="Alien world with a floating neural core above an engineer" />
 
@@ -209,3 +209,4 @@ I’m interested in hard problems across **LLM inference, GPU kernels, distribut
 <sub>Built beyond Earth. Optimized for silicon.</sub>
 
 </div>
+-->
